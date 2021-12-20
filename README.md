@@ -1,3 +1,3 @@
 # Patika_Nodejs_Bootcamp
 ---------------------
-Node.js Bootcamp notları yer almaktadır.
+I share what i learned in Node.js Bootcamp.
