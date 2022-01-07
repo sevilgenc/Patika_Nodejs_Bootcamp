@@ -11,8 +11,10 @@ Genel olarak iki yazılımın birbiriyle iletişime geçmesidir. Bir yazılımı
 -API'ların kullanımında kendi yazdığımız uygulamalar ile kullandığımız API'lar farklı programlama dillerine sahip olabilirler. 
  
 -API'lar platform bağımsız çalışırlar.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75300904/148519240-c1040ce9-572e-4fde-abf6-41a7b1d45bd6.png">
+</p>
 
-![image](https://user-images.githubusercontent.com/75300904/148519240-c1040ce9-572e-4fde-abf6-41a7b1d45bd6.png)
 
 ### **API Örnekleri**
 
